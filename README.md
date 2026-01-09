@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hey, Shriya here 👋
 
-<!--
-**shriyatarun09/shriyatarun09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing **MS in Business Analytics** at **McCombs School of Business, The University of Texas at Austin**.
 
-Here are some ideas to get you started:
+I’m a business and data analytics professional with prior experience as a Business Analyst and Software Developer.I enjoy working at the intersection of business requirements and analytics, with hands-on experience in analytics consulting, dashboarding, and data-driven decision support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Currently Exploring
+
+I’m exploring how **business analytics and data-driven insights** can improve operational efficiency and strategic decision-making. My academic and professional journey focuses on understanding the **business context first**, followed by applying appropriate analytical techniques to support stakeholders and leadership teams.
+
+### My Tech Toolbox:
+
+- **Programming & Scripting:** Python, SQL, R, Java, Advanced Excel (Functions, Pivot Tables, VBA), Selenium  
+- **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Statistical Analysis, Descriptive & Diagnostic Analytics, Predictive Analytics (Regression, Classification), Forecasting & Time Series Analysis, Data Quality & Validation  
+- **Data Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Executive Dashboards, KPI Reporting, Data Storytelling  
+- **Data Management:** MySQL, PostgreSQL, MongoDB, Snowflake  
+- **Business Analytics:** Requirements Gathering, Stakeholder Management, BRD/FRD, User Stories, Gap Analysis, Process Mapping, KPI & OKR Definition, UAT, Executive Reporting  
+- **Consulting & Professional Skills:** Problem Structuring, Hypothesis-driven Analysis, Client Communication, Presentation & Insight Communication, Cross-functional Collaboration  
+- **Tools & Methodologies:** Git, GitHub, Jupyter Notebook, Google Colab, Snowflake, Gurobi, Agile/Scrum, SDLC
+
+---
+
+## 🔗 Links
+- **Portfolio:** https://steadfast-jelly-c94.notion.site/Shriya-Tarun-2a199c78428980e09ab9c61b99ec002e?source=copy_link  
+- **GitHub:** https://github.com/shriyatarun09 
+- **LinkedIn:** https://www.linkedin.com/in/shriya-tarun-666a52186/
+- **EMAIL:**:shriyatarun09@gmail.com
+
+---
+
+✨ Passionate about using analytics to translate complex data into clear, actionable business insights that support informed decision-making.
