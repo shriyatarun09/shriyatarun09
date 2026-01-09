@@ -8,6 +8,8 @@ I’m a business and data analytics professional with prior experience as a Busi
 
 I’m exploring how **business analytics and data-driven insights** can improve operational efficiency and strategic decision-making. My academic and professional journey focuses on understanding the **business context first**, followed by applying appropriate analytical techniques to support stakeholders and leadership teams.
 
+---
+
 ### My Tech Toolbox:
 
 - **Programming & Scripting:** Python, SQL, R, Java, Advanced Excel (Functions, Pivot Tables, VBA), Selenium  
