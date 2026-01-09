@@ -5,13 +5,11 @@ Currently pursuing **MS in Business Analytics** at **McCombs School of Business,
 
 I’m a business and data analytics professional with prior experience as a Business Analyst and Software Developer.I enjoy working at the intersection of business requirements and analytics, with hands-on experience in analytics consulting, dashboarding, and data-driven decision support.
 
----
 
 ### 🔍 Currently Exploring
 
 I’m exploring how **business analytics and data-driven insights** can improve operational efficiency and strategic decision-making. My academic and professional journey focuses on understanding the **business context first**, followed by applying appropriate analytical techniques to support stakeholders and leadership teams.
 
----
 
 ### My Tech Toolbox:
 
@@ -29,7 +27,7 @@ I’m exploring how **business analytics and data-driven insights** can improve 
 
 - **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, Snowflake, Gurobi
 
----
+
 
 ## 🔗 Links
 - **Portfolio:** https://steadfast-jelly-c94.notion.site/Shriya-Tarun-2a199c78428980e09ab9c61b99ec002e?source=copy_link  
