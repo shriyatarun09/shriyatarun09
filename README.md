@@ -1,5 +1,4 @@
 ## Hey, Shriya here 👋
----
 
 Currently pursuing **MS in Business Analytics** at **McCombs School of Business, The University of Texas at Austin**.
 
@@ -35,6 +34,5 @@ I’m exploring how **business analytics and data-driven insights** can improve 
 - **LinkedIn:** https://www.linkedin.com/in/shriya-tarun-666a52186/
 - **EMAIL**:shriyatarun09@gmail.com
 
----
 
 ✨ Passionate about using analytics to translate complex data into clear, actionable business insights that support informed decision-making.
