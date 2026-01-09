@@ -1,8 +1,11 @@
 ## Hey, Shriya here 👋
+---
 
 Currently pursuing **MS in Business Analytics** at **McCombs School of Business, The University of Texas at Austin**.
 
 I’m a business and data analytics professional with prior experience as a Business Analyst and Software Developer.I enjoy working at the intersection of business requirements and analytics, with hands-on experience in analytics consulting, dashboarding, and data-driven decision support.
+
+---
 
 ### 🔍 Currently Exploring
 
