@@ -11,12 +11,18 @@ I’m exploring how **business analytics and data-driven insights** can improve 
 ### My Tech Toolbox:
 
 - **Programming & Scripting:** Python, SQL, R, Java, Advanced Excel (Functions, Pivot Tables, VBA), Selenium  
-- **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Statistical Analysis, Descriptive & Diagnostic Analytics, Predictive Analytics (Regression, Classification), Forecasting & Time Series Analysis, Data Quality & Validation  
-- **Data Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Executive Dashboards, KPI Reporting, Data Storytelling  
-- **Data Management:** MySQL, PostgreSQL, MongoDB, Snowflake  
-- **Business Analytics:** Requirements Gathering, Stakeholder Management, BRD/FRD, User Stories, Gap Analysis, Process Mapping, KPI & OKR Definition, UAT, Executive Reporting  
-- **Consulting & Professional Skills:** Problem Structuring, Hypothesis-driven Analysis, Client Communication, Presentation & Insight Communication, Cross-functional Collaboration  
-- **Tools & Methodologies:** Git, GitHub, Jupyter Notebook, Google Colab, Snowflake, Gurobi, Agile/Scrum, SDLC
+
+- **Data Analytics:** Exploratory Data Analysis (EDA), Data Cleaning & Preprocessing, Statistical & Diagnostic Analysis, Predictive Analytics (Regression, Classification), Forecasting & Time Series Analysis, Data Quality & Validation  
+
+- **Data Visualization & Business Intelligence:** Power BI, Tableau, Matplotlib, Seaborn, Plotly, Executive Dashboards, KPI Reporting, Data Storytelling  
+
+- **Data Management & Warehousing:** MySQL, PostgreSQL, MongoDB, Snowflake  
+
+- **Business Analytics & Consulting:** Requirements Gathering, Stakeholder Management, BRD/FRD Documentation, User Stories, Gap Analysis, Process Mapping, KPI & OKR Definition, UAT, Executive Reporting  
+
+- **Professional Skills & Methodologies:** Problem Structuring, Hypothesis-driven Analysis, Client Communication, Presentation & Insight Communication, Cross-functional Collaboration, Agile/Scrum, SDLC  
+
+- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, Google Colab, Snowflake, Gurobi
 
 ---
 
@@ -24,7 +30,7 @@ I’m exploring how **business analytics and data-driven insights** can improve 
 - **Portfolio:** https://steadfast-jelly-c94.notion.site/Shriya-Tarun-2a199c78428980e09ab9c61b99ec002e?source=copy_link  
 - **GitHub:** https://github.com/shriyatarun09 
 - **LinkedIn:** https://www.linkedin.com/in/shriya-tarun-666a52186/
-- **EMAIL:**:shriyatarun09@gmail.com
+- **EMAIL**:shriyatarun09@gmail.com
 
 ---
 
